@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(170, 156, 182);
+}
+
+
+.h1{
+    margin-left: 500px;
+}
+
+h1{
+
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.main{
+    margin: auto;
+    width: 800px;
+    height: 600px;
+    background-color: chartreuse;
+    border: 20px black solid;
+}
+
+.true{
+    line-height: 100px;
+    text-align: center;
+    width: 100%;
+    font-size: 40px;
+    font-weight: 900;
+    height: 100px;
+    background-color:rgb(255, 255, 255);
+    
+}
+
+
+.guess{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    align-content: space-around;
+    
+}
+
+.card{
+    width: 200px;
+    height: 200px;
+    border: 5px red solid;
+    display: flex;
+    background-color: white;
+}
