@@ -44,9 +44,6 @@ This project helped me practice:
 * Random color generation (`Math.random()`)
 * Working with multiple HTML elements using `querySelectorAll()`
 
-## 📸 Preview
-
-Add a screenshot or GIF of the game here.
 
 ---
 
