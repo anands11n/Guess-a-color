@@ -1,3 +1,5 @@
+![img](Screenshot.png)
+
 # 🎨 Guess a Color
 
 A simple color guessing game built using **HTML, CSS, and JavaScript**.
@@ -44,7 +46,7 @@ This project helped me practice:
 * Random color generation (`Math.random()`)
 * Working with multiple HTML elements using `querySelectorAll()`
 
-![img](Screenshot.png)
+
 
 ---
 
